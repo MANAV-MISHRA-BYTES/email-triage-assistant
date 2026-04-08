@@ -1,0 +1,14 @@
+# openenv.yaml
+name: email-triage-assistant
+version: 1.0.0
+description: A real-world email triage assistant environment
+author: OpenEnv Participant
+license: MIT
+entrypoint: server.main:app
+python_version: "3.9"
+dependencies:
+  - fastapi>=0.104.0
+  - pydantic>=2.5.0
+  - uvicorn>=0.24.0
+  - python-multipart>=0.0.6
+  - email-validator>=2.1.0

@@ -1,0 +1,14 @@
+# .spacesconfig.yaml
+title: Email Triage Assistant
+emoji: 📧
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+tags:
+  - openenv
+  - reinforcement-learning
+  - email
+  - agent
+  - environment
