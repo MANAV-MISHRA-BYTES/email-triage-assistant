@@ -1,3 +1,18 @@
+---
+title: Email Triage Assistant
+emoji: 📧
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_file: app.py
+pinned: false
+license: mit
+tags:
+  - openenv
+  - reinforcement-learning
+  - email
+---
+
 # Email Triage Assistant - OpenEnv Environment
 
 A real-world OpenEnv environment that simulates the task of managing a professional inbox. Agents must categorize emails, set priorities, draft responses, and manage the workflow efficiently.
